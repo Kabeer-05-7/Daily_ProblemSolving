@@ -1,8 +1,8 @@
 # Daily_ProblemSolving
 <br>
-This repository contains my LeetCode solutions automatically synced using **LeetSync**.
+This repository contains my LeetCode solutions automatically synced using LeetSync.
 <br>
-<red>About Me:</red>
+About Me:
 <br>
 Name: Kabeer Sharma<br>
 B.Tech CSE (AI & ML)<br>
@@ -12,4 +12,4 @@ Repository Stats:
 <br>
 Platform: LeetCode<br>
 Sync Method: LeetSync<br>
-Primary Language: Java<br>
+Primary Language: Java , Mysql , Python <br>
