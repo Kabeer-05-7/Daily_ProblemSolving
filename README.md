@@ -12,4 +12,4 @@ Repository Stats:
 <br>
 Platform: LeetCode<br>
 Sync Method: LeetSync<br>
-Primary Language: Java , Mysql , Python <br>
+Primary Language: Java , Mysql , Python  , Pandas <br>
