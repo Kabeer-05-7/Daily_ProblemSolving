@@ -5,7 +5,7 @@ This repository contains my LeetCode solutions automatically synced using LeetSy
 About Me:
 <br>
 Name: Kabeer Sharma<br>
-B.Tech CSE (AI & ML)<br>
+B.Tech CSE (AI-ML)<br>
 Daily DSA practice in Java<br>
 <br>
 Repository Stats:
