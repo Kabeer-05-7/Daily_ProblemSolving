@@ -6,7 +6,7 @@ About Me:
 <br>
 Name: Kabeer Sharma<br>
 B.Tech CSE (AI-ML)<br>
-Daily DSA practice in Java<br>
+Daily DSA practice<br>
 <br>
 Repository Stats:
 <br>
