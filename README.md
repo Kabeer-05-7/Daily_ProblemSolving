@@ -2,7 +2,7 @@
 <br>
 This repository contains my LeetCode solutions automatically synced using LeetSync.
 <br>
-About Me:
+About:
 <br>
 Name: Kabeer Sharma<br>
 B.Tech CSE (AI-ML)<br>
